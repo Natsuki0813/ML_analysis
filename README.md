@@ -9,7 +9,7 @@
 ## 言語
 Python
 
-## ライブラリ
+## Pythonライブラリ
 Numpy,Pandas,Matplotlib,Seaborn,scipy.stats,sklearn,lightGBM,Pytorch
 
 ## RDB
