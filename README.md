@@ -19,10 +19,10 @@ MySQL
 - GCP:GKE(Kubernates)
 - AWS:Lambda
 
-## SaaS
+## SaaS/PaaS
 GitHub
 
-##その他
+## その他
 Docker,Helm,Kubeflow,ArudinoIDE
 
 ## データ分析
