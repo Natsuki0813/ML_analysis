@@ -31,3 +31,8 @@ Docker,Helm,Kubeflow,ArudinoIDE
 - 従業員意識調査のχ二乗検定
 
 
+## バリューを発揮しやすい業務
+
+
+## 主なデータ分析経歴
+
